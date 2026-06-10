@@ -5,6 +5,10 @@
   text-align: left;
   text-decoration: none;
   text-shadow: 0 0 0.5em #000000aa;
+  text-align: uppercase;
+  text-shadow: 0 0 1px #000000aa;
+  text-decoration: underline;
+  text-decoration-color: #646cffaa;
 }
 
 .logo {
