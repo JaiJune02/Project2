@@ -2,7 +2,9 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
+  text-decoration: none;
+  text-shadow: 0 0 0.5em #000000aa;
 }
 
 .logo {
