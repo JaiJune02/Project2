@@ -2,7 +2,9 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: right;
+  text-align: left;
+  text-decoration: none;
+  text-shadow: 0 0 0.5em #000000aa;
 }
 
 .logo {
@@ -10,6 +12,7 @@
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
+  hapiness: 0.5;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
